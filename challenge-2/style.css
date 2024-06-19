@@ -1,0 +1,14 @@
+h1 {
+    background-color: rgb(112, 14, 140);
+    color: azure;
+    position:relative;top: 0px;left: 0px;
+    
+}
+img {
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
