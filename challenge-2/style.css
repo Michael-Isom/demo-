@@ -2,13 +2,22 @@ h1 {
     background-color: rgb(112, 14, 140);
     color: azure;
     position:relative;top: 0px;left: 0px;
-    
+    background: fixed;color: black;
+    position: top;
+}
+body {
+    background-color: black;
 }
 img {
+    position: top;
     display: block;
-    max-width: 100%;
+    max-width: 500%;
     max-height: 100%;
-    margin-left: auto;
+    margin-left: left;
     margin-right: auto;
     width: 1000px;
+}
+p {
+    position: top;
+    color: rgb(252, 250, 252);
 }
